@@ -47,8 +47,6 @@ If you are interested in contributing or getting involved with this project, ple
 </ul>
 
 
-abc
-
 
 ### LICENSE
 
