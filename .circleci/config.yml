@@ -1,7 +1,8 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/comsugarvpnproxy
+    working_directory: ~/appflashtunnelvpn
+
     docker:
       - image: cimg/android:2022.12.1-ndk
     environment:
